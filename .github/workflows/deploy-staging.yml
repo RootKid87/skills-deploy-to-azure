@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: RootKid87-azure-ttt
-  AZURE_WEBAPP_NAME: RootKid87-ttt-app
+  DOCKER_IMAGE_NAME: RootKid87 -azure-ttt
+  AZURE_WEBAPP_NAME: RootKid87 -ttt-app
   ###############################################
 
 jobs:
